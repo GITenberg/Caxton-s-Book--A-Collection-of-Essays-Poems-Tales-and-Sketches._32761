@@ -1,0 +1,44 @@
+_repo: Caxton-s-Book--A-Collection-of-Essays-Poems-Tales-and-Sketches._32761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhodes, W. H. (William Henry)
+    aliases:
+    - Caxton, W. H. (William Henry)
+    - Rhodes, William H. (William Henry)
+    - Rhodes, William Henry
+    birthdate: 1822
+    deathdate: 1876
+    gutenberg_agent_id: '1732'
+    url: http://www.gutenberg.org/2009/agents/1732
+  editor:
+    agent_name: O'Connell, Daniel
+    gutenberg_agent_id: '36032'
+    url: http://www.gutenberg.org/2009/agents/36032
+description: ''
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32761'
+  lccn: '85891323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+tableOfContents: Preface -- In memoriam -- The case of Summerfield -- The merchant's
+  exchange -- The deserted schoolhouse -- For an album -- Phases in the life of John
+  Pollexfen -- The love knot -- The Aztec princess -- The mother's epistle -- Legends
+  of Laxe Bigler -- Rosenthal's Elaine -- The telescopic eye -- The Emerald Isle --
+  The earth's hot center -- Wildey's dream -- Whitherward -- Our wedding day -- The
+  old year and the new -- A pair of myths -- The last of his race -- The two Georges
+  -- Masonry -- Pollock's euthanasia -- Science, literature and art during the first
+  half of the nineteenth century -- The enrobing of liberty -- A cake of soap -- The
+  Summerfield case -- The avitor -- Lost and found.
+title: 'Caxton''s Book: A Collection of Essays, Poems, Tales, and Sketches.'
+url: http://www.gutenberg.org/ebooks/32761
